@@ -34,6 +34,17 @@ An inline link to [trenz.de](https://trenz.de) or as a [website reference]
 
 ---
 
+Here are some HTML codeblocks:
+
+<p align="right">I am aligned to the right</p>
+
+<figure>
+    <img alt='some logo' src='./logo.png' height='50'>
+    <figcaption>This is a caption</figcaption>
+</figure>
+
+---
+
 | Col | Col 2 | Col 3 |
 |:----|:-----:|------:|
 | left | center | right |
