@@ -43,6 +43,7 @@ Here are some HTML codeblocks:
     <figcaption>This is a caption</figcaption>
 </figure>
 
+
 ---
 
 | Col | Col 2 | Col 3 |
