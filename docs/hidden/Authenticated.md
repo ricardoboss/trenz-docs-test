@@ -1,1 +1,1 @@
-This file should only be visible with authentication enabled.
+I'm hidden if you don't have the 'list' permission
