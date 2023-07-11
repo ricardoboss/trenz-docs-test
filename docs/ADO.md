@@ -2,7 +2,7 @@ This file should showcase some features that are supported in Azure DevOps wikis
 
 This table of contents for example:
 
-[[__TOC__]]
+[[_TOC_]]
 
 # here is a heading
 
