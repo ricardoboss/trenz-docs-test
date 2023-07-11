@@ -29,6 +29,7 @@ This table of contents for example:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E72DWgKP_1Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 :::
 
+
 # Rich Text Format
 
 <p>This text needs to <del>strikethrough</del> <ins>since it is redundant</ins>!</p>
