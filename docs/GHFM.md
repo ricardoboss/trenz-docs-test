@@ -32,6 +32,11 @@ An inline link to [trenz.de](https://trenz.de) or as a [website reference]
 
 [website reference]: https://trenz.de
 
+> A simple blockquote
+
+> **Note**
+> This is an info box
+
 ---
 
 Here are some HTML codeblocks:
